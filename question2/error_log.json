@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2025-04-04 22:01:17,890",
+        "error_message": "Failed to connect to external service. Retrying in 5 seconds. Error: Connection refused."
+    },
+    {
+        "timestamp": "2025-04-04 22:01:25,345",
+        "error_message": "Database query failed. Error: Table 'users' not found."
+    },
+    {
+        "timestamp": "2025-04-04 22:01:33,012",
+        "error_message": "File not found. Path: /tmp/important_file.txt."
+    },
+    {
+        "timestamp": "2025-04-04 22:01:38,675",
+        "error_message": "Exception during shutdown. Error: 'NoneType' object has no attribute 'close'."
+    }
+]
